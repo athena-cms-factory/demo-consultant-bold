@@ -1,5 +1,5 @@
-/* Athena Bold Theme - Tailwind CSS v4 */
 @import "tailwindcss";
+/* Athena Bold Theme - Tailwind CSS v4 */
 
 @theme {
     /* Bold tokens */
@@ -136,3 +136,4 @@
         @apply px-2 py-1 bg-black text-white text-sm font-bold uppercase;
     }
 }
+.btn-primary:hover { opacity: 0.9; }
